@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 <a href="https://psnprofiles.com/venomroger">
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/drumondroger">
+  <!--<a href="https://twitter.com/drumondroger">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+  </a>-->
 
 </div>
