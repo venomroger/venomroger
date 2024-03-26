@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on NTTDATA
-- 🌱 I’m currently learning ... CTFL-AT 
+- 🌱 Recently certified in ... CTFL-AT 
 - 👯 I’m looking to collaborate on ... Agile Tester
 <!--- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
